@@ -1,5 +1,5 @@
 {
-  "name": "triecaptchajs",
+  "name": "triecaptcha",
   "version": "1.0.0",
   "description": "Advanced CAPTCHA generator with customizable options",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
     "verification",
     "canvas"
   ],
-  "author": "abdou-da0wew <abdou.triecbot.xyz>",
+  "author": "abdou-da0wew <abdou@triecbot.xyz>",
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.11.2"
