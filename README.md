@@ -1,6 +1,6 @@
 # Triecaptcha
 
-Advanced CAPTCHA generator for Node.js with customizable options.
+CAPTCHA generator for Node.js with customizable options.
 
 ## Installation
 
@@ -13,7 +13,7 @@ npm install triecaptcha
 ### Basic Usage
 
 ```javascript
-const CAPTCHAGenerator = require('captcha-generator-pro');
+const CAPTCHAGenerator = require('triecaptcha');
 const fs = require('fs');
 
 const captcha = new CAPTCHAGenerator();
